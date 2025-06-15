@@ -11,6 +11,7 @@ AjaxinWP presents a minimalist yet robust barebone framework for WordPress theme
 - **Performance Optimized**: A lightweight foundation that prioritizes speed and responsiveness.
 - **SEO and Accessibility Ready**: Meets web accessibility standards and SEO best practices out of the box.
 - **Developer-friendly Customization**: Provides a clean slate for extensive customization and feature development.
+- **Modern Block Theme Support**: Includes `theme.json` and block-based templates for seamless integration with the WordPress block editor.
 
 ## Installation
 
